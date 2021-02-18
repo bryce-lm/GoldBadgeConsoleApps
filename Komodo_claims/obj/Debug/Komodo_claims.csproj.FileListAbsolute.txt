@@ -1,0 +1,7 @@
+C:\Users\Bryce\source\repos\GoldBadgeChallenges\Komodo_claims\bin\Debug\Komodo_claims.exe.config
+C:\Users\Bryce\source\repos\GoldBadgeChallenges\Komodo_claims\bin\Debug\Komodo_claims.exe
+C:\Users\Bryce\source\repos\GoldBadgeChallenges\Komodo_claims\bin\Debug\Komodo_claims.pdb
+C:\Users\Bryce\source\repos\GoldBadgeChallenges\Komodo_claims\obj\Debug\Komodo_claims.csprojAssemblyReference.cache
+C:\Users\Bryce\source\repos\GoldBadgeChallenges\Komodo_claims\obj\Debug\Komodo_claims.csproj.CoreCompileInputs.cache
+C:\Users\Bryce\source\repos\GoldBadgeChallenges\Komodo_claims\obj\Debug\Komodo_claims.exe
+C:\Users\Bryce\source\repos\GoldBadgeChallenges\Komodo_claims\obj\Debug\Komodo_claims.pdb
